@@ -1,0 +1,15 @@
+{
+    "name": "admin/site",
+    "authors": [
+        {
+            "name": "VassiAeLin",
+            "email": "115078631+VassiAeLin@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Site\\": ""
+        }
+    }
+}
